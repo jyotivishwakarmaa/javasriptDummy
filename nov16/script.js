@@ -21,7 +21,7 @@ var course = "full stack";
 
 console.log(name + " " + age + " " + course);
 window.alert(name+ " " + age + " " + course);
-h1.innerHTML = name + " " + age + " course";
+h1.innerHTML = name +" "+ age +" "+ course;
 
 
 

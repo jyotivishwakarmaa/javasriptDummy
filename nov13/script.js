@@ -7,10 +7,10 @@
 
 
 
-var global1 = john;
-var global2 = harry;
-var global3 = simon;
-{
+var global1 = "john";
+var global2 = "harry";
+var global3 = "simon";
+
   //var has globat scope and let and const has block or function scope
 
  {

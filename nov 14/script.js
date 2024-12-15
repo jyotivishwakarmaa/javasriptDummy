@@ -1,4 +1,4 @@
-//chamging the inner html
+//changing the inner html
 
 var h1 = document.getElementById("demo");
 h1.innerHTML = "Hello world!";

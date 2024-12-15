@@ -1,5 +1,5 @@
 //alert("Hello world");
-//variable definites with three types in JS..
+//variable defines with three types in JS..
 //var, let, const
 
 var name = "John Doe"; //(single qotes and double quotes both are working in js)
